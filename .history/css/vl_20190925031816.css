@@ -57,7 +57,7 @@ border: 1px solid gray;
 }
 
 .tbl.info > div{
-	padding: 20px;
+padding:5px;
 font-size:12px;
 font-family:arial;
 box-shadow: inset 2px -3px 9px 1px rgba(3, 114, 167, 0.54), inset -2px 3px 9px 1px rgba(170, 170, 170, 0.45);
@@ -68,9 +68,8 @@ margin-top:2px;
 }
 
 .tbl .title {
-	font-size: 26px;
-	color: #366792;
-	font-weight: bold;
+
+	font-size:14px;
 	font-weight:Bold;
 }
 
